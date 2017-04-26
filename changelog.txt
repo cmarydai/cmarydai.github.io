@@ -1,0 +1,25 @@
+Updates and Changelog:
+
+
+v1.7 - 04.10.2014:
+- Added Timeline Page
+- Fixed Flickering on Safari iOS
+- Fixed Crashes on Safari iOS
+- Optimized Navigation Menu on External Pages
+
+
+v1.6 - 02.06.2014:
+- Added 404 Page
+- Added Option to Enable/Disable Scrolling Animation on Mobile Devices
+- Better Performance on Mobile Devices
+
+
+v1.5 - 02.01.2014:
+- Added New Timeline Section
+- Added Ajax Popup For Work/Portfolio
+- Fixed Safari Tint Background Bugs
+- Fixed IE8 Contact Form Input Bugs
+
+
+V1.0  - 01.23.2014:
+- Initial Release
