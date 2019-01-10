@@ -127,7 +127,7 @@ img{
 	background: #a9a9a9;
 }
 .darken{
-	background: #1d1d1d;
+	background: #41364A;
 	color: #ffffff;
 }
 .darken a{
@@ -767,7 +767,7 @@ img{
 
 #header{
 	width: 100%;
-	height: 100%;
+	height: 90%;
 }
 
 /* Tint background image */
@@ -912,7 +912,7 @@ img{
 
 #header .intro-block{
 	width: 100%;
-	height: 100%;
+	height: 90%;
 	display: table;
 	color: #ffffff;
 }
