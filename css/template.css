@@ -1189,7 +1189,7 @@ img{
 	display: block;
 }
 #portfolio-grid .portfolio-block a:hover{
-	cursor: crosshair;
+	cursor: pointer;
 }
 
 #portfolio-grid .portfolio-block img{
