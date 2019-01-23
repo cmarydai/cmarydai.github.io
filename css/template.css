@@ -772,7 +772,7 @@ img{
 
 /* Tint background image */
 #header.tint{
-	background: rgba(0,0,0,0.5);
+	background: rgba(0,0,0,0.2);
 }
 
 /* Fallback for IE */
