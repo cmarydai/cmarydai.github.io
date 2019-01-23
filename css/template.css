@@ -127,7 +127,7 @@ img{
 	background: #a9a9a9;
 }
 .darken{
-	background: #41364A;
+	background: #1a1448;
 	color: #ffffff;
 }
 .darken a{
@@ -175,7 +175,7 @@ img{
 .section-title h3{
 	position: relative;
 	text-align: center;
-	color: #999999;
+	color: #fff;
 	font-weight: 400;
 	font-size: 1em;
 }
